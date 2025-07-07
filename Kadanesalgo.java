@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public int maxSubArray(int[] nums) {
         int max=0;
         int sum=Integer.MIN_VALUE;
